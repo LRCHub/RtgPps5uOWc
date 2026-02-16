@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "無期限活動",
+  "base_artist": "YACA IN DA HOUSE",
+  "createdAt": "2026-02-16T13:00:49.900736Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無期限活動",
+      "artist": "YACA IN DA HOUSE",
+      "has_synced": false,
+      "path": "select/pl_01_無期限活動_YACA_IN_DA_HOUSE.txt"
+    }
+  ]
+}
